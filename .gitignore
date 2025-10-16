@@ -1,0 +1,30 @@
+# Godot specific ignores
+.godot/
+.import/
+export/
+*.pck
+*.zip
+*.translation
+build/
+bin/
+res://.godot/
+res://.import/
+res://export/
+
+# Editor specific ignores
+.mono/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+*.vsp
+*.vspx
+*.userprefs
+
+# OS specific ignores
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
